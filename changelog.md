@@ -22,7 +22,10 @@
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [Agents.cfg] v1.0.0.0
+  * [Nuke.png]
+  * [NukeSymbol.png] v1.0.0.0
+  * [NukesUnlimited.png] v1.0.0.0
+  * uses assets from flaticons, see Attributions.md for details
 * closes #6 - Create Agency
 * closes #7 - Create Flag
 
