@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-***BLURB***
+Adds Nuke's Unlimited agent, flags, and common config files used in all Nuke's Unlimited's add-ons for Kerbal Space Program.
 
 ## Installation Instructions
 
