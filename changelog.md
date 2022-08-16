@@ -20,9 +20,11 @@
 ### Add
 
 * Agent
-  * closes #6 - Create Agency
+  * [Agents.cfg] v1.0.0.0
 * Flags
-  * closes #7 - Create Flag
+  * [Agents.cfg] v1.0.0.0
+* closes #6 - Create Agency
+* closes #7 - Create Flag
 
 ### Localization
 
