@@ -235,7 +235,7 @@ milestones:
     description: progress toward 0.9.99.0-prerelease
     state: open
 
-  - title: 1.0.0.0-erelease
+  - title: 1.0.0.0-release
     description: progress toward 1.0.0.0-release
     state: open
 
