@@ -10,6 +10,23 @@
 | spacedock  | (https://spacedock.info/mod/3084)                                 |
 | ckan       | NukesUnlimited                                                    |
 
+## Version 1.0.0.0-release - `<LAUNCH!>` edition
+
+* 15 Aug 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+upscale flag
+
+### Status 1.0.0.0
+
+* Issues
+  * closes #26 - Nuke's Unlimited (NU) 1.0.0.0-release `<LAUNCH!>` edition
+  * closes #27 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #28 - 1.0.0.0 Update Documentation
+  * closes #29 - 1.0.0.0 Update Social Media
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Target Acquired>` edition
 
 * 15 Aug 2022
