@@ -58,7 +58,13 @@ updated: 03 Jun 2022
 
 ### Art Asset(s)
 
-* Flags
+* Icons
+  * Free License (with attribution)
+    * This license allows you to use for free any of Flaticon contents for your projects as long as they are attributed to their author in the definitive project.
+  * https://www.flaticon.com/packs/nuclear-energy-35
+  * Icons made by https://www.flaticon.com/authors/freepik
+  * [006-mushroom.png]
+  * [003-nuclear energy.png]
 
 ### Testing and Support
 
